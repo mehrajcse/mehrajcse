@@ -1,5 +1,5 @@
 -  Hi, I’m Mehraj
--  I’m a full Stuck Developer 
+-  I’m a full Stuck Developer, Jack of All Trades, Master of None.
 -  Currently on learning mode
 -  Skills: Python3, Django,SQL, MongoDB,HTML5,CSS3,BOOTSTRAP5
 -  you can reach me at mehrajcse1@gmail.com
